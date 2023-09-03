@@ -30,7 +30,7 @@ namespace WindowsFormsApplication17
             asistentesPorLocalidad["Tribunita"] = 0;
             asistentesPorLocalidad["Silla Plástica"] = 0;
 
-            montoPorLocalidad["Sol Candente"] = 0;
+            montoPorLocalidad["Sol Candent"] = 0;
             montoPorLocalidad["Sol Luminoso"] = 0;
             montoPorLocalidad["Sombrita"] = 0;
             montoPorLocalidad["Tribunita"] = 0;
