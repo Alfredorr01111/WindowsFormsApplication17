@@ -83,6 +83,7 @@ namespace WindowsFormsApplication17
             }
         }
 
+        //este metodo  muestra los resultados de los datos ingresados
         private void MostrarResultados()
         {
             lstResultados.Items.Clear();
