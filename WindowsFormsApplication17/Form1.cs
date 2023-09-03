@@ -107,6 +107,8 @@ namespace WindowsFormsApplication17
             lblMonto.Text = $"Total Monto: ${totalMonto:F2}";
         }
 
+        //este evento limpia los datos y reposiciona en el cursor en txtcantidad
+
         private void btnNuevo_Click(object sender, EventArgs e)
         {
             cmbLocalidades.Text = "";
