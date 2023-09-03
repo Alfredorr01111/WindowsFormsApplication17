@@ -68,7 +68,7 @@ namespace WindowsFormsApplication17
             // Definir los precios por localidad (ajusta estos valores según tus necesidades)
             switch (localidad)
             {
-                case "Sol Candente":
+                case "Sol Candent":
                     return 3.0m;
                 case "Sol Luminoso":
                     return 5.0m;
