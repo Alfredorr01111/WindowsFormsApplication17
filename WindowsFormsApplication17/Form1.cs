@@ -117,6 +117,8 @@ namespace WindowsFormsApplication17
            
         }
 
+        //este evento cierra la aplicacion
+
         private void btnSalir_Click(object sender, EventArgs e)
         {
             Application.Exit();
