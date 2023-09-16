@@ -79,7 +79,7 @@ namespace WindowsFormsApplication17
                 case "Silla Plástica":
                     return 20.0m;
                 default:
-                    return 0.0m; // Si la localidad no se encuentra, regresa 0
+                    return 0.0m; // Este metodo devuelve 0 si no encuentra la localidad
             }
         }
 
