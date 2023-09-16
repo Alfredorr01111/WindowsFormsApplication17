@@ -65,7 +65,7 @@ namespace WindowsFormsApplication17
 
         private decimal ObtenerPrecioLocalidad(string localidad)
         {
-            // Definir los precios por localidad (ajusta estos valores según tus necesidades)
+            //Este metodo define los precios por localidad
             switch (localidad)
             {
                 case "Sol Candente":
